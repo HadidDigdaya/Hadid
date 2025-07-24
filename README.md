@@ -1,2 +1,2 @@
 # Hadid
-belajar,kerja,menyimpan web disini
+belajar,kerja,menyimpan web,coding disini ya !
